@@ -18,7 +18,7 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 
 | Estudiante | Página asignada | Rama | Commits principales |
 |---|---|---|---|
-| | | | |
+|Jered Arias| equipo.html| feature_equipo| |
 
 ## Evidencias Git
 

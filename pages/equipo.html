@@ -5,10 +5,17 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <title>SAVIA | Nuestro equipo</title>
     <link href="../css/styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../css/stylesEquipo.css">
   </head>
-  <body>
+  <body class="body_equipo">
     <header class="site-header">
-      <!-- Espacio de trabajo: está pendiente de implementación. -->
+      <div class="container nav-inner">
+        <a class="logo" href="index.html"> SAVIA. </a>
+        <nav aria-label="Navegaci&oacute;n principal" class="nav-links">
+          <a aria-current="page" href="index.html"> Inicio </a>
+          <a class="nav-contact" href="pages/menu.html"> Nuestra carta </a>
+        </nav>
+      </div>
     </header>
 
     <section class="page-hero">
@@ -19,7 +26,41 @@
       </div>
     </section>
     <main class="section container">
-      <!-- Espacio de trabajo: esta página está pendiente de implementación. -->
+
+      <section class="equipo_section">
+
+        <div class="equipo">
+          <h2>Equipo</h2>
+          <ul class="list">
+            <li><a href="#Chef">Chef principal</a></li>
+            <li><a href="#Respostero">Resposteria</a></li>
+            <li><a href="#Camarera">Antencion al cliente</a></li>
+          </ul>
+        </div>
+
+        <div class="equipo" id="Chef">
+          <h2>Chef principal</h2>
+          <div><img class="img" src="../images/chef.avif" alt="Lupita" /></div>
+          <h3>Nombre: Lupita</h3>
+          <p>Descripcion: Es la encargada del orden y la coodinacion de la cocina desde hace 5 años, los platos creados por ella han sido aclamados por varios famosos y expertos</p>
+        </div>
+
+        <div class="equipo" id="Repostero">
+          <h2>Resposteria</h2>
+          <div><img class="img" src="../images/Reposteria.jpg" alt="Carlos"></div>
+          
+          <h3>Nombre: Carlos</h3>
+          <p>Descripcion: Es el encargado de nuestros famosos y deliciosos postres desde el primer día, no hay otro repostero que haga los pasteles de chocolate como el los hace</p>
+        </div>
+        <div class="equipo" id="Camarera">
+          <h2>Atencion al cliente</h2>
+          <div><img class="img" src="../images/Antencion_al_cliente.jpg" alt="Camila"></div>
+          
+          <h3>Nombre: Camila</h3>
+          <p>Auque sea la más reciente de nuestro equipo, Camila a demostrado se una parte importante al momento de anten a un cliente, su amabilidad y atencion a los detalles a provocado muy buenas criticas hacia el restaurante</p>
+        </div>
+      </section>
+      
     </main>
     <footer class="site-footer">
       <div class="container footer-inner">

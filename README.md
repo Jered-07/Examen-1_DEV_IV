@@ -18,13 +18,13 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 
 | Estudiante | Página asignada | Rama | Commits principales |
 |---|---|---|---|
-| | | | |
+|Jered Arias| equipo.html| feature_equipo|Implementacion de la seccion equipo|
 
 ## Evidencias Git
 
 | Funcionalidad/corrección | PR hacia develop | Revisor | Resultado de merge / conflicto si ocurrió |
 |---|---|---|---|
-|Sebastian Morales |menu.html |feature_menu | |
+| Feature equipo | Jered Arias | Sebastian Morales| |
 
 ## Verificación final
 Registrar las pruebas de funcionamiento a 1280 px y 375 px, enlaces y páginas.

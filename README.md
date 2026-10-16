@@ -25,8 +25,7 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 
 | Funcionalidad/corrección | PR hacia develop | Revisor | Resultado de merge / conflicto si ocurrió |
 |---|---|---|---|
-|Feature menu y arreglo de conflicto |Sebastian Morales |Jered Arias |<img width="1441" height="919" alt="image" src="https://github.com/user-attachments/assets/feb8d311-619c-453d-bb4e-6961bd020485" /> <img width="989" height="673" alt="image" src="https://github.com/user-attachments/assets/b539f45a-a11e-4b92-ae8a-4b97cc46c030" />
-|
+|Feature menu y arreglo de conflicto |Sebastian Morales |Jered Arias |<img width="1441" height="919" alt="image" src="https://github.com/user-attachments/assets/feb8d311-619c-453d-bb4e-6961bd020485" /> <img width="989" height="673" alt="image" src="https://github.com/user-attachments/assets/b539f45a-a11e-4b92-ae8a-4b97cc46c030" />|
 | Feature equipo | Jered Arias | Sebastian Morales |<img width="610" height="142" alt="image" src="https://github.com/user-attachments/assets/12d604f2-a0b0-4e41-acfe-115bf8b03046" />  <img width="1123" height="860" alt="image" src="https://github.com/user-attachments/assets/6681b3ed-6400-4465-a2b9-e89c1a8fafc1" /> |
 
 ## Verificación final

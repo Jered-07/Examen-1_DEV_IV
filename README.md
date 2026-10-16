@@ -18,13 +18,13 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 
 | Estudiante | Página asignada | Rama | Commits principales |
 |---|---|---|---|
-| | | | |
+|Sebastian Morales |menu.html |feature_menu |Implementacion del menu al trabajo |
 
 ## Evidencias Git
 
 | Funcionalidad/corrección | PR hacia develop | Revisor | Resultado de merge / conflicto si ocurrió |
 |---|---|---|---|
-|Sebastian Morales |menu.html |feature_menu | |
+|Feature menu |Sebastian Morales |Jered Arias |<img width="1441" height="919" alt="image" src="https://github.com/user-attachments/assets/feb8d311-619c-453d-bb4e-6961bd020485" /> |
 
 ## Verificación final
 Registrar las pruebas de funcionamiento a 1280 px y 375 px, enlaces y páginas.

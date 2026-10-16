@@ -24,7 +24,7 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 
 | Funcionalidad/corrección | PR hacia develop | Revisor | Resultado de merge / conflicto si ocurrió |
 |---|---|---|---|
-| Feature equipo | Jered Arias | Sebastian Morales| |
+| Feature equipo | Jered Arias | Sebastian Morales|<img width="610" height="142" alt="image" src="https://github.com/user-attachments/assets/12d604f2-a0b0-4e41-acfe-115bf8b03046" />|
 
 ## Verificación final
 Registrar las pruebas de funcionamiento a 1280 px y 375 px, enlaces y páginas.

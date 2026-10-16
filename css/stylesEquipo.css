@@ -15,6 +15,7 @@
 
 h2, h3, p{
     color: white;
+    text-align: center;
 }
 
 .img{
@@ -46,6 +47,22 @@ h2, h3, p{
 .list{
     color: white;
     padding: 10px;
+}
+
+.flujo {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: var(--cream);
+    border: 2px solid var(--forest) ;
+    border-radius: 10px;
+    padding: 30px;  
+    margin: 100px;
+    
+}
+
+.flujo p, .flujo h3{
+    color: black;
+    text-align: center;
 }
 
 

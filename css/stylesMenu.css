@@ -1,0 +1,80 @@
+:root {
+  --forest: #183c33;
+  --cream: #faf7f0;
+  --gold: #d7a45b;
+  --ink: #27352f;
+  --mute: #5f6963;
+}
+
+.menu-div {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-around;
+    align-items: center;
+    gap: 24px;
+}
+
+.menu {
+  width: 250px;
+  height: 580px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+  border: 2px solid var(--forest);
+  padding: 10px;
+}
+
+.menu .comida {
+    height: 100%;
+    width: 600px;
+    border-radius: 18px;
+    border: 2px solid var(--forest);
+}
+
+.menu2 {
+    width: 130px;
+    height: 250px;
+    border:2px solid var(--forest);
+    border-radius: 10px;
+    border: 2px solid var(--forest);
+    text-align: center;
+}
+
+.nav-Platos {
+    display: grid;
+    margin: 10px;
+    padding: 10px;
+    background-color: var(--forest);
+    color: var(--cream);
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.section2 {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid var(--forest);
+}
+
+
+@media (max-width: 768px) {
+    .menu-div {
+        grid-template-columns: auto;
+    }
+
+    .menu2 {
+        display: flex;
+        width: 250px;
+        height: 270px;
+        flex-direction: column;
+        order: -1;
+
+    }
+}
